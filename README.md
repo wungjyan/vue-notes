@@ -4,7 +4,9 @@
 ## 介绍
  之前已经写过一个todoList的demo，也是实现了本地存储，那是初学vue时写的，很基础。      
  地址：[todoList1.0](https://wungjyan.github.io/demo/vue-todolist1.0/index.html#all)    
- 写这次demo的初衷是想试用下element-ui，另外练习一下vuex的使用，也是比较基础的东西。
+ 
+ 写这次demo的初衷是想试用下element-ui，另外练习一下vuex的使用，也是比较基础的东西。     
+ 地址：[todoList2.0](https://wungjyan.github.io/demo/vue-todolist2.0/dist/index.html#/)
  
 ## 第一次提交（2017.12.20）
 
