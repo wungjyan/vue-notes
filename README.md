@@ -6,7 +6,7 @@
  地址：[todoList1.0](https://wungjyan.github.io/demo/vue-todolist1.0/index.html#all)    
  
  写这次demo也是为了练习下vue，vuex和vue-router，还有想尝试下Element ui框架，也是比较基础的。        
- 地址：[todoList2.0](https://wungjyan.github.io/demo/vue-todolist2.0/dist/index.html#/)
+ 地址：[vue_notes](https://wungjyan.github.io/demo/vue-todolist2.0/dist/index.html#/)
  
 ## 第一次提交（2017.12.20）
 
